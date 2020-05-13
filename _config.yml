@@ -1,10 +1,10 @@
 # Site settings
 title: Galaxy Blog
-SEOTitle: 嘉乐的博客 | Galaxy Blog
+SEOTitle: Galaxy Blog
 header-img: img/home-bg.jpg
 email: galaxy_2018@126.com
 description: "关于程序与设计，与你一起发现更大的世界。"
-keyword: "嘉乐, Galaxy嘉乐, Galaxy, @Galaxy, 嘉乐的博客, Galaxy Blog, 博客, 个人网站, 互联网"
+keyword: "Galaxy, @Galaxy, Galaxy的博客, Galaxy Blog, 博客, 个人网站, 互联网"
 url: "https://galaxy080123.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
