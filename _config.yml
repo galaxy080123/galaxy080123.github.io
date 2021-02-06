@@ -1,10 +1,10 @@
 # Site settings
-title: Galaxy Blog
-SEOTitle: Galaxy Blog
+title: Blog
+SEOTitle: Blog
 header-img: img/home-bg.jpg
 email: galaxy_2018@126.com
 description: "关于程序与设计，与你一起发现更大的世界。"
-keyword: "Galaxy, @Galaxy, Galaxy的博客, Galaxy Blog, 博客, 个人网站, 互联网"
+keyword: "博客, 个人网站, 互联网"
 url: "https://galaxy080123.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -16,7 +16,7 @@ RSS: false
 weibo_username:     Galaxy0801
 zhihu_username:     sun-jia-le-80-21
 github_username:    galaxy080123
-twitter_username:   galaxy
+twitter_username:   JialeSun8
 #facebook_username:  galaxy
 #linkedin_username:  firstname-lastname-idxxxx
 
